@@ -1,20 +1,20 @@
 # E-commerce Automation Framework - Project Summary
 
-## 🎯 Project Overview
+## Project Overview
 
 This is a comprehensive Selenium automation framework built with Python and pytest for testing e-commerce web applications. The framework follows industry best practices and includes advanced features for scalable test automation.
 
-## ✅ Completed Features
+## Completed Features
 
 ### 1. Framework Architecture
-- ✅ **Page Object Model (POM)**: Clean, maintainable page objects
-- ✅ **Base Classes**: DriverManager, BaseTest, and utility classes
-- ✅ **Configuration Management**: Environment-specific configurations
-- ✅ **Modular Design**: Well-organized project structure
+- **Page Object Model (POM)**: Clean, maintainable page objects
+- **Base Classes**: DriverManager, BaseTest, and utility classes
+- **Configuration Management**: Environment-specific configurations
+- **Modular Design**: Well-organized project structure
 
 ### 2. Core Functionality
-- ✅ **Multi-Browser Support**: Chrome, Firefox, and Edge
-- ✅ **Wait Strategies**: Explicit, fluent, and custom wait utilities
+- **Multi-Browser Support**: Chrome, Firefox, and Edge
+- **Wait Strategies**: Explicit, fluent, and custom wait utilities
 - ✅ **Screenshot Capture**: Automatic failure screenshots
 - ✅ **Data-Driven Testing**: Excel, CSV, and JSON support
 - ✅ **Error Handling**: Robust exception handling
